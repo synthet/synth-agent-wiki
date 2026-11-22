@@ -1,4 +1,4 @@
-# LLM Wiki
+# Synth Agent Wiki (`llmwiki`)
 
 LLM Wiki is a local-first, evidence-bound knowledge compiler for Python 3.11+. It stores immutable
 source revisions and reviewed claims in SQLite, projects canonical knowledge to deterministic

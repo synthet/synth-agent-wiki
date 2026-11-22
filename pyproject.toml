@@ -18,6 +18,9 @@ dependencies = [
   "PyYAML>=6.0.2,<7",
 ]
 
+[project.urls]
+Homepage = "https://synthet.github.io"
+
 [project.optional-dependencies]
 dev = [
   "pytest>=8.3,<10",
